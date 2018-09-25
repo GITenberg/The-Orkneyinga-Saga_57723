@@ -1,5 +1,5 @@
 _repo: The-Orkneyinga-Saga_57723
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Goudie, Gilbert
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Hjaltalin, Jon A
     gutenberg_agent_id: '49565'
     url: http://www.gutenberg.org/2009/agents/49565
+covers:
+- cover_type: archival
+  image_path: 57723-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '48528'
     url: http://www.gutenberg.org/2009/agents/48528
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57723#The-Orkneyinga-Saga
 gutenberg_issued: '2018-08-18'
 gutenberg_type: Text
 identifiers:
